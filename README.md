@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=D4vidG4merLP&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   ## 💰 You can help me by Donating
-![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/foxyydev) 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/foxyydev) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
